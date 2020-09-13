@@ -8,13 +8,13 @@ For slides and example code, see [lesson 0](../../../fhnw-iot/blob/master/00/REA
 ### a) Git and GitHub, 5'
 * Check the forks of this repository to find the _Classroom_ link.
 * Add a new text file, commit and push to submit.
-* See [Git](#git) and [Submitting results](#submitting-results) below.
+* See [Using Git](#using-git) and [Submitting results](#submitting-results) below.
 
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.
 * Want a review? [Create an issue](../../issues/new), mention @tamberg.
 
-### Git
+### Using Git
 On your computer
 * In the hands-on repository [fork for your class](../../network/members), in README.md, click the _GitHub Classroom link_.
 * Once you accept the assessment, you get a personal, private repository URL for your _USER_NAME_:<pre>
